@@ -8,9 +8,7 @@ import { Personajes } from "./Personajes";
 //crate your first component
 const Home = () => {
 	
-	const muestraUnaAlerta = ()=>{
-		alert(`Empieza el juego con ${Nombre}`);
-	}
+	
 	
 	
 	
